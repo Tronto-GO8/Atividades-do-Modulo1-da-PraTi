@@ -16,4 +16,5 @@ Depois de instalado, vá ao terminal e digite o comando node -v para verificar s
 
 Depois disso, só falta rodar os códigos. Vá ao terminal e escreva node seguido do nome do arquivo e sua extensão para executá-lo.
 Exemplo: node exercicio1.js
+
 OBS: todos os arquivos executáveis são .js.
