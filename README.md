@@ -1,20 +1,33 @@
-Olá, para rodar os códigos, primeiro baixe todos os arquivos voltando à página inicial e clicando em "Código" e, logo em seguida, em "Baixar ZIP".
+1. Baixar os arquivos:
+Volte à página inicial do repositório.
+Clique em "Código" > "Baixar ZIP".
 
-Em Downloads, extraia a pasta para o local desejado.
+2. Extrair a pasta:
+Vá até a pasta de Downloads.
+Extraia o arquivo ZIP para um local de sua preferência.
 
-Depois, abra o VS Code (caso não tenha, instale).
+3. Abrir o projeto no VS Code:
+Se ainda não tem o Visual Studio Code, instale-o.
+Abra o VS Code.
+Vá em "File" > "Open Folder".
+Selecione a pasta que você extraiu.
 
-No VS Code, clique em "File" e depois em "Open Folder". Em seguida, selecione a pasta extraída.
+4. Abrir o terminal no VS Code:
+Clique em "Terminal" > "New Terminal".
 
-Depois disso, no VS Code, clique em "Terminal" e depois na opção "New Terminal".
+6. Navegar até a pasta do projeto (caso necessário):
+Copie o caminho da pasta onde os arquivos estão.
+No terminal, digite: cd + o caminho copiado, e de enter.
 
-Aí você vai até a pasta onde estão os arquivos, copia o caminho dela e, no terminal, digita o comando cd seguido do caminho copiado. Pressione Enter.
+6. Instalar o Node.js:
+Baixe e instale o Node.js no site oficial: https://nodejs.org.
+Para verificar se a instalação foi bem-sucedida, digite no terminal: node -v.
 
-Agora, instale o Node.js para podermos rodar o código.
-
-Depois de instalado, vá ao terminal e digite o comando node -v para verificar se ele foi instalado corretamente ou para ver se já estava instalado anteriormente.
-
-Depois disso, só falta rodar os códigos. Vá ao terminal e escreva node seguido do nome do arquivo e sua extensão para executá-lo.
+8. Executar os arquivos JavaScript:
+No terminal, use o comando: node nome-do-arquivo.tipo-do-arquivo 
 Exemplo: node exercicio1.js
 
-OBS: todos os arquivos executáveis são .js.
+Observações:
+Todos os arquivos executáveis têm extensão .js.
+
+Certifique-se de estar no terminal correto (na pasta onde os arquivos estão) ao rodar os comandos.
